@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.leminnov.com">
-    <img src="https://www.leminnov.com/wp-content/uploads/2024/05/logo-leminnov-black.png" alt="Leminnov Logo" width="220">
+    <img src="[https://www.leminnov.com/wp-content/uploads/2024/05/logo-leminnov-black.png](https://www.leminnov.com/images/leminnov-logo-horizontal.svg)" alt="Leminnov Logo" width="220">
   </a>
-</p>
+</p>[
 
 <h1 align="center">Leminnov</h1>
 <p align="center"><strong>A Zest of Innovation</strong></p>
