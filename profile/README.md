@@ -1,6 +1,6 @@
 # 👋 Welcome to Our GitHub Organization
 
-This organization is part of the **ACME ecosystem**.
+This organization is part of the **LEMINNOV ecosystem**.
 
 ## 🔗 Related Organizations
 
