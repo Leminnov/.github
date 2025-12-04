@@ -51,9 +51,10 @@ Workshops, audits, design reviews, migration plans and long-term transformation 
 - IaC (Terraform, Helm, GitOps)  
 - CI/CD & DevSecOps  
 - Observability & SRE Practices  
-- Edge Virtualization (EVE, EDEN)  
+- Edge Computing
+- Industrie 4.0
 - Data & AI Platforms  
-- Security, Compliance & Risk Management  
+- Security & Compliance
 
 ---
 
