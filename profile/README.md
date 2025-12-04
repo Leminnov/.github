@@ -58,6 +58,13 @@ Workshops, audits, design reviews, migration plans and long-term transformation 
 
 ---
 
+### Related organizations
+
+- 🌱 **Scaleway Terraform Modules** – Various Terraform Modules of Scaleway
+  👉 https://github.com/tf-scaleway-modules
+
+---
+
 # 🤝 Work With Us
 
 We collaborate with startups, enterprises, industrial organizations and research institutions.
